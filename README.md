@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @vignolin
-- 👀 I’m interested in astrophysics and philosophy 
-- 🌱 I’m currently learning python
+- 👀 I’m interested in astrophysics and eletronics
+- 🌱 I’m currently learning C++
